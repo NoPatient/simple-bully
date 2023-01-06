@@ -5,6 +5,7 @@ go 1.19
 require github.com/spf13/viper v1.14.0
 
 require (
+	github.com/NoPatient/simple-bully v0.0.0-20230106135145-e36268c9099b // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/magiconair/properties v1.8.6 // indirect
