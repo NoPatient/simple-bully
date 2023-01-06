@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	bully "github.com/NoPatient/simple-bully/"
+	//bully "github.com/NoPatient/simple-bully/"
 )
 
 func main() {
