@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"os"
-	//"github.com/NoPatient/simple-bully/internal"
+
+	//bully "github.com/NoPatient/simple-bully/internal"
 )
 
 func main() {
